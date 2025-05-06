@@ -1,0 +1,98 @@
+
+@media (max-width: 991.98px) {
+    .navbar-collapse {
+        background-color: #fff;
+        padding: 1rem 0;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .navbar .nav-link {
+        margin: 5px 0;
+        font-size: 1rem;
+    }
+
+    .navbar .btn {
+        margin-top: 10px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .hero-section {
+        text-align: center;
+        padding: 60px 20px;
+    }
+
+    .hero-image {
+        max-height: 300px;
+        margin-top: 30px;
+ 
+    }
+
+        .section-title {
+            font-size: 1.6rem;
+        }
+    
+        .feature-card {
+            padding: 20px 15px;
+        }
+    
+        .feature-title {
+            font-size: 1rem;
+        }
+                .service-icon {
+                    font-size: 2.5rem;
+                }
+        
+                .section-title {
+                    font-size: 1.7rem;
+                }
+        
+                .service-card {
+                    padding: 25px 15px;
+                }
+        
+                .service-title {
+                    font-size: 1.1rem;
+                }
+        
+                .service-card p {
+                    font-size: 0.9rem;
+                }
+                                .recovery-title {
+                                    font-size: 2rem;
+                                }
+                
+                                .recovery-text {
+                                    font-size: 1rem;
+                                }
+                
+                                .btn-recovery {
+                                    font-size: 1rem;
+                                    padding: 0.6rem 1.5rem;
+                                }
+                
+                                .featurecard {
+                                    max-width: 100%;
+                                    margin-bottom: 1.5rem;
+                                }
+}
+
+@media (max-width: 768px) {
+    .goodside-assistance .services h3 {
+        display: block;
+        margin: 10px auto;
+    }
+
+    .subheading {
+        font-size: 20px;
+    }
+
+    .goodside-assistance .content p {
+        font-size: 16px;
+    }
+}
